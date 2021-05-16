@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+dataset/
+.DS_Store
+convolutional_neural_network.ipynb
+convolutional_neural_network.py
